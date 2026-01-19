@@ -1,0 +1,7 @@
+celery==5.4.0
+redis==5.0.6
+faster-whisper==1.0.3
+yt-dlp==2024.7.16
+opencv-python==4.10.0.84
+numpy==1.26.4
+ffmpeg-python==0.2.0
